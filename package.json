@@ -1,0 +1,17 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "\"Curso de youtube de programacion con node js\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaescript",
+    "ecmascript",
+    "node",
+    "js"
+  ],
+  "author": "Enrique Illescas \"illescaspace@gmailcom\"",
+  "license": "MIT"
+}
